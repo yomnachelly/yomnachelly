@@ -1,11 +1,10 @@
 # Yomna Chelly — Full-Stack Developer
 
 🚀 Specialized in **Angular** & **Spring Boot** | Passionate about **AI** & **Cloud**  
-💡 Adaptable and comfortable working with new technologies beyond my core stack
 🎓 Licence DSI · ISET Zagouan — Final year student  
 📍 Nabeul, Tunisia · Open to Remote  
 💼 Open to:  Full-Stack CDI · Freelance  
-
+💡 Adaptable and comfortable working with new technologies beyond my core stack
 ---
 
 ## 🌐 Portfolio
