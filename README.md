@@ -4,7 +4,7 @@
 💡 Adaptable and comfortable working with new technologies beyond my core stack
 🎓 Licence DSI · ISET Zagouan — Final year student  
 📍 Nabeul, Tunisia · Open to Remote  
-💼 Open to: PFE Internship · Full-Stack CDI · Freelance  
+💼 Open to:  Full-Stack CDI · Freelance  
 
 ---
 
