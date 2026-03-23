@@ -1,10 +1,11 @@
 # Yomna Chelly — Full-Stack Developer
 
-🚀 Full-Stack Developer with strong experience in **Angular**, **Spring Boot**, and**Laravel**
-💡 Adaptable and able to quickly learn and work with new technologies when needed
-🎓 Licence DSI · ISET Zagouan — Final year student
-📍 Nabeul, Tunisia · Open to Remote
-💼 Open to: PFE Internship · Full-Stack CDI · Freelance
+🚀 Specialized in **Angular** & **Spring Boot** | Passionate about **AI** & **Cloud**  
+💡 Adaptable and comfortable working with new technologies beyond my core stack
+🎓 Licence DSI · ISET Zagouan — Final year student  
+📍 Nabeul, Tunisia · Open to Remote  
+💼 Open to: PFE Internship · Full-Stack CDI · Freelance  
+
 ---
 
 ## 🌐 Portfolio
