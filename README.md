@@ -2,6 +2,7 @@
 
 🚀 Specialized in **Angular** & **Spring Boot** | Passionate about **AI** & **Cloud**  
 🎓 Licence DSI · ISET Zagouan — Graduated -Engineering Cycle in TEK-UP University
+
 📍 Nabeul, Tunisia · Open to Remote  
 💼 Open to:  Full-Stack CDI · Freelance  
 💡 Adaptable and comfortable working with new technologies beyond my core stack
